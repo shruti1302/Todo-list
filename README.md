@@ -1,4 +1,4 @@
-# Todo-list
+# Todo List
 ToDo List using ReactJS
 
 ## Install
